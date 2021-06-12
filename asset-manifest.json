@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/report-card-comments/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/report-card-comments/static/js/main.18f11040.chunk.js",
+    "main.js.map": "/report-card-comments/static/js/main.18f11040.chunk.js.map",
+    "runtime-main.js": "/report-card-comments/static/js/runtime-main.d7ab15e2.js",
+    "runtime-main.js.map": "/report-card-comments/static/js/runtime-main.d7ab15e2.js.map",
+    "static/js/2.14346f85.chunk.js": "/report-card-comments/static/js/2.14346f85.chunk.js",
+    "static/js/2.14346f85.chunk.js.map": "/report-card-comments/static/js/2.14346f85.chunk.js.map",
+    "static/js/3.265285db.chunk.js": "/report-card-comments/static/js/3.265285db.chunk.js",
+    "static/js/3.265285db.chunk.js.map": "/report-card-comments/static/js/3.265285db.chunk.js.map",
+    "index.html": "/report-card-comments/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/report-card-comments/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.14346f85.chunk.js.LICENSE.txt": "/report-card-comments/static/js/2.14346f85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7ab15e2.js",
+    "static/js/2.14346f85.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.18f11040.chunk.js"
+  ]
+}
